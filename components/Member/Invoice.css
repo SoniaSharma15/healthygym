@@ -1,0 +1,15 @@
+.left{
+flex: 70%;
+padding:20px 2rem;
+}
+.right{
+    flex: 30%;
+    text-align:end ;
+    padding:20px 1rem;
+}
+.main{
+    display: flex;
+}
+ul{
+    margin-left: -1rem;
+}
